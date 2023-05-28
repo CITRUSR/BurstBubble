@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 819d203f8d203f340a506fd45e1bb52b, type: 3}
+  m_Name: BallConfig
+  m_EditorClassIdentifier: 
+  BallPrefab: {fileID: -824367899352626928, guid: dd0b2fadc98627245b96fb8afeeda261, type: 3}
+  DestroyParticle: {fileID: 7289922176628190615, guid: 09e3aff9f5741c64fb94c3119099bf1c, type: 3}
+  parameters:
+    Size: 0.5
+    LifeTime: 3
+    SpawnTime: 1
+    Score: 1
+  Size: 0.5
+  LifeTime: 3
+  SpawnTime: 1
+  Score: 1
